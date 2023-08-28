@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 291.38 282.89">
+  <defs>
+    <clipPath id="clippath">
+      <rect width="291.38" height="282.89" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect width="291.38" height="282.89" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect width="291.38" height="282.89" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect x="103.74" y="37.13" width="138.46" height="114.97" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect x="59.77" y="91.97" width="182.4" height="144.22" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Artwork_4" data-name="Artwork 4">
+      <g style="clip-path: url(#clippath);">
+        <g style="clip-path: url(#clippath-1);">
+          <g style="clip-path: url(#clippath-2);">
+            <path d="M266.21,282.89H31.61c-13.9,0-25.17-11.27-25.17-25.17V25.17C6.44,11.27,17.71,0,31.61,0h234.6c13.9,0,25.17,11.27,25.17,25.17v232.55c0,13.9-11.27,25.17-25.17,25.17" style="fill: #2d3748;"/>
+            <g style="opacity: .28;">
+              <g style="clip-path: url(#clippath-3);">
+                <path d="M114.57,38.13c-5.09-3.36-10.83,2.13-10.83,10.36v34.61c0,4.43,1.76,8.44,4.5,10.25l88.88,58.75,45.08-29.75L114.57,38.13Z"/>
+              </g>
+            </g>
+            <g style="opacity: .28;">
+              <g style="clip-path: url(#clippath-4);">
+                <path d="M242.17,122.41L70.73,235.26c-5.09,3.36-10.96-2.76-10.96-10.99v-34.61c0-4.43,1.76-8.44,4.5-10.26L196.14,91.97"/>
+              </g>
+            </g>
+            <path d="M204.63,156.9l45.08-29.74h0S122.09,42.94,122.09,42.94c-5.09-3.36-10.83,2.13-10.83,10.36v34.61c0,4.43,1.76,8.45,4.5,10.26l88.88,58.75Z" style="fill: #d45b55;"/>
+            <path d="M249.69,127.21L78.24,240.06c-5.09,3.36-10.96-2.76-10.96-10.99v-34.61c0-4.43,1.76-8.44,4.5-10.26L203.66,96.77" style="fill: #ff6f61;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
